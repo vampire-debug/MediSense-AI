@@ -15,7 +15,7 @@ https://medisense-ai-2026.streamlit.app/
 
 # 📌 Overview:
 
-**MediSense AI** is an AI-powered healthcare prediction system designed to assist users in early disease risk assessment using Machine Learning.
+**MediSense AI** is an AI-powered healthcare prediction system designed to assist users in early disease risk assessment using Machine Learning. 
 
 The platform analyzes patient health parameters and provides intelligent predictions along with data-driven insights through an interactive web interface.
 
